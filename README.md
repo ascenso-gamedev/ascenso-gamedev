@@ -12,7 +12,7 @@ I am a Ph.D. Biologist and Taxonomist transitioning my expertise in rigorous sci
 
 ### 📬 Connect with me
 * [LinkedIn](https://www.linkedin.com/in/alexandre-ascenso/)
-* [Notion AI Portfolio](https://deluxe-uncle-c2c.notion.site/AI-Evaluation-Prompt-Engineering-Portfolio-3a209a83d80180cd8d04f337a1622c24)
+* [Notion AI Portfolio](https://app.notion.com/p/Alexandre-Cordeiro-Ascenso-Ph-D-3a209a83d80180cd8d04f337a1622c24)
 * [Google Scholar](https://scholar.google.com/citations?user=0FR2xJEAAAAJ&hl=pt-BR)
 <!--
 **ascenso-gamedev/ascenso-gamedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
